@@ -53,6 +53,6 @@
 <br>
 
 * **[vub](https://vitalik.eth.limo/general/2022/06/20/backpack.html)**
-* **[bt3gl](docs/bt3gl.md)**
+* **[bt3gl](bt3gl.md)**
 
 
