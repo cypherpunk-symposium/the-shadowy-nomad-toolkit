@@ -44,6 +44,7 @@
 * **[tools and cryptocurrencies](https://github.com/autistic-symposium/autistic-cypherpunk-toolkit/blob/main/cypherlife.md)**
 * **[what does grapheneos do about cellular tracking, interception and silent esim?](https://grapheneos.org/faq#cellular-tracking)**
 * **[efani (cybersecurity-focused mobile service protecting against sim swaps)](https://www.efani.com/)**
+* **[virtual privacy cards](https://privacy.com/)**
 
 <br>
 
