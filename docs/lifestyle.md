@@ -81,6 +81,7 @@
 - nad+
 - melatonin
 - ketone-iq
+- [creatine (start with 20g, 4x)](https://www.youtube.com/watch?v=DKAKkM5R6eU)
 
 <br>
 
