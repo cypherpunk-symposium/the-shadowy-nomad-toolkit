@@ -2,6 +2,24 @@
 
 <br>
 
+### 2025
+
+<br>
+
+<br>
+
+<p align="center">
+<img height="230" src="imgs/2025_1.jpeg">
+<img height="230" src="imgs/2025_2.jpeg">
+<img height="230" src="imgs/2025_3.jpeg">
+<img height="230" src="imgs/2025_4.jpeg">
+<img height="230" src="imgs/2025_5.jpeg">
+<img height="230" src="imgs/2025_6.jpeg">
+
+</p>
+
+<br>
+
 ### 2023
 
 <br>
