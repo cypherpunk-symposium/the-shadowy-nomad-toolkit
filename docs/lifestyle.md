@@ -78,7 +78,7 @@
 - ashwagandha
 - ginkgo biloba
 - resveratrol
-- nad+
+- [nad+, nmn, 1g/day](https://youtube.com/shorts/U_tsoNTu_Gg?si=B0IemUL_MEUC3gMk)
 - melatonin
 - ketone-iq
 - [creatine (start with 20g, 4x)](https://www.youtube.com/watch?v=DKAKkM5R6eU)
