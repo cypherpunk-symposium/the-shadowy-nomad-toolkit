@@ -19,6 +19,27 @@
 * **[analog compass](https://www.brunton.com/collections/compasses)**
 * **[portable monoculars](https://www.rei.com/c/monoculars)**
 
+##### computers
+
+* [framework](https://frame.work/)
+* [GPD-Pocket-4](https://gpdstore.net/gpd-pocket-4-announced/)
+* good 'n' old thinkpads (x1, etc.)
+
+##### wallets
+
+* [foundation](https://foundation.xyz/buy-passport-core/)
+* [airgap](https://airgap.it/)
+* [wallets](https://gridplus.io/)
+
+##### phones
+
+* [lineageos](https://www.lineageos.org/)
+* [kaiostech](https://www.kaiostech.com/)
+* [nokia-8110](https://www.hmd.com/en_int/nokia-8110-4g?sku=16ARGYW1A09)
+* [oneplus](https://www.oneplus.com/us/9-pro)
+* [librem 5](https://puri.sm/products/librem-5/)
+* the good 'n' pixel
+
 <br>
 
 ---
@@ -42,7 +63,7 @@
 * **[skyroam](https://www.skyroam.com/wifi-pricing)**
 * **[wifi map](https://www.wifimap.io/)**
 
-##### anonimity
+##### anonymity
 
 * **[tools and cryptocurrencies](https://github.com/autistic-symposium/autistic-cypherpunk-toolkit/blob/main/cypherlife.md)**
 * **[what does grapheneos do about cellular tracking, interception and silent esim?](https://grapheneos.org/faq#cellular-tracking)**
