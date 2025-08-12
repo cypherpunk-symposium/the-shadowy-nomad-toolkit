@@ -1,4 +1,4 @@
-## the autistic cypherpunk's nomadism toolkit
+## the shadowy nomad toolkit
 
 <br>
 

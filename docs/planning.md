@@ -6,6 +6,10 @@
 
 <br>
 
+* **[bt3gl's bucket list](bucket_list.md)**
+
+<br>
+
 ##### flights
 
 * **[momondo](https://www.momondo.com/)**
