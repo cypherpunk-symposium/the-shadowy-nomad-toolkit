@@ -24,6 +24,7 @@
 * [framework](https://frame.work/)
 * [GPD-Pocket-4](https://gpdstore.net/gpd-pocket-4-announced/)
 * good 'n' old thinkpads (x1, etc.)
+* AMD Ryzen AI Max+ 395: [ROG Flow Z13](https://rog.asus.com/laptops/rog-flow/rog-flow-z13-2025/), [ZBook Ultra G1a](https://www.hp.com/us-en/workstations/zbook-ultra.html)
 
 ##### wallets
 
